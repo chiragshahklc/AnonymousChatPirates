@@ -1,0 +1,6 @@
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousChatServer\bin\Debug\AnonymousChatServer.exe.config
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousChatServer\bin\Debug\AnonymousChatServer.exe
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousChatServer\bin\Debug\AnonymousChatServer.pdb
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousChatServer\obj\Debug\AnonymousChatServer.csprojResolveAssemblyReference.cache
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousChatServer\obj\Debug\AnonymousChatServer.exe
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousChatServer\obj\Debug\AnonymousChatServer.pdb

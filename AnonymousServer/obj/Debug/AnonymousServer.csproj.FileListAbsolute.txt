@@ -1,0 +1,14 @@
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\bin\Debug\FileDB\Database.aca
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\bin\Debug\AnonymousServer.exe.config
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\bin\Debug\AnonymousServer.exe
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\bin\Debug\AnonymousServer.pdb
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.csprojResolveAssemblyReference.cache
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.Form1.resources
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.Login.resources
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.Properties.Resources.resources
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.csproj.GenerateResource.Cache
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.exe
+D:\Arcane Mastery\Souma's Wikia\Visual Studio\Projects\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.pdb
+D:\Arcane Mastery\Souma's Wikia\ShadevMainCommand\AnonymousChatPirates\AnonymousServer\bin\Debug\AnonymousServer.exe.config
+D:\Arcane Mastery\Souma's Wikia\ShadevMainCommand\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.exe
+D:\Arcane Mastery\Souma's Wikia\ShadevMainCommand\AnonymousChatPirates\AnonymousServer\obj\Debug\AnonymousServer.pdb
